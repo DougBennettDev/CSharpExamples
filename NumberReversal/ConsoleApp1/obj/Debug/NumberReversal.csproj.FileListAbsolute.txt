@@ -1,0 +1,6 @@
+c:\users\owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\owner\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\NumberReversal.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\owner\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
