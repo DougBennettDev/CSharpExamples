@@ -1,0 +1,11 @@
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\bin\Debug\Resources\Employees_log.ldf
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\bin\Debug\Resources\Employees.mdf
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\bin\Debug\NewEmployeesDatabase.exe.config
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\bin\Debug\NewEmployeesDatabase.exe
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\bin\Debug\NewEmployeesDatabase.pdb
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\obj\Debug\NewEmployeesDatabase.csprojResolveAssemblyReference.cache
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\obj\Debug\NewEmployeesDatabase.Form1.resources
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\obj\Debug\NewEmployeesDatabase.Properties.Resources.resources
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\obj\Debug\NewEmployeesDatabase.csproj.GenerateResource.Cache
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\obj\Debug\NewEmployeesDatabase.exe
+c:\users\child\onedrive\documents\visual studio 2017\Projects\NewEmployeesDatabase\NewEmployeesDatabase\obj\Debug\NewEmployeesDatabase.pdb
